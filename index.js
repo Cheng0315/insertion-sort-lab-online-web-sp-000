@@ -12,7 +12,7 @@ function findMinAndRemove(array){
   array.slice(minIndex, 1)
 
   return min
-  
+
 }
 
 function insertionSort(array){
